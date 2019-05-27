@@ -1,5 +1,7 @@
 # OpenEuropa Content
 
+## BEWARE: ONLY TEST FOR LOCAL ENVIRONMENTS 
+
 **This component is in active development. It is not ready to be used.**
 
 This is a Drupal module that contains the European Commission corporate entity types.
